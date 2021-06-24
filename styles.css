@@ -1,0 +1,16 @@
+ body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  .strike {
+   text-decoration: line-through;
+  }
+
+ .btn-warning {
+   border: 4px dotted black;
+   color: white;
+ }
+
+ .task-list-item {
+   cursor: pointer;
+ }
